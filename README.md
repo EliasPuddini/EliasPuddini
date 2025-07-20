@@ -9,8 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/elias puddini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias puddini" height="30" width="40" /></a>
 </p>
-
-##📝 Objetivos
+<h3 align="left">📝 Objetivos:</h3>
 - [] Especializarme aún más en el desarrollo Java.
 - [] Aprender Spring Security.
 - [] Aprender más sobre la seguridad informatica.
