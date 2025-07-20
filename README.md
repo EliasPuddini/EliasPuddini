@@ -6,9 +6,12 @@
 
 <h3 align="left">Perfil y Contacto:</h3>
 <p align="left">
+  <!--LinkedIn-->
 <a href="https://www.linkedin.com/in/el%C3%ADas-puddini-236035205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias puddini" height="30" width="40" /></a>
+  <!--Email-->
 <a href="mailto:epuddini@gmail.com" target="_blank" style="margin-left: 10px;">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="email" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+  </a>
 </a>
 </p>
 
