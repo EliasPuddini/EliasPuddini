@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Full Stack Java</h3>
 
 - 🌱 Actualmente estoy estudiando **Spring Security**.
-- 🌱 Avanzando a cuarto año de mi carrera de Ingeniería en Sistemas en la UTN.
+- 🌱 Cursando el quinto grado de mi carrera de Ingeniería en Sistemas en la UTN.
 
 
 <h3 align="left">Perfil y Contacto:</h3>
